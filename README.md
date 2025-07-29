@@ -1,14 +1,23 @@
 ## Hi there👋 Nice to see u !
-Hi, I'm Nazli — a Graphic Designer🎨 and Web Developer with a strong passion for UI/UX and Frontend Design.
+Hi, I'm Nazli — a Graphic Designer🎨 and Web Developer🚀 with a strong passion for UI/UX and Frontend Design.
 ____________________________________________________________________________________________________________
 
-- 🔭 I love turning ideas into beautiful, user-centered digital experiences — building responsive, intuitive websites and applications.  
-- ✨ I enjoy working with modern technologies like **React** and **Next.js**, and I'm always learning new tools to level up my work.
+### 💻 Web Development
 
+I build responsive, accessible, and user-friendly websites using modern tools like React, Next.js, and Tailwind CSS.
+
+### ❤️ I enjoy  
+- Creating beautiful and intuitive user interfaces  
+- Working with clean, semantic code  
+- Turning ideas into engaging digital products
 _________________________________________________________________________________________________________________________________
 - 🌱 🔭 Currently working on: **React Projects** and my repositories 
 💬 I’m currently improving my Germany with Lingoda
-- 📫 Connect with me in https://www.linkedin.com/in/nazli-abbas-pour
+- 📫 Connect with me
+- 📌 LinkedIn <a href="https://www.linkedin.com/in/nazli-abbas-pour" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
+- 📌 GitHub
 _________________________________________________________________________________________________________________________________
 
 ### 🚀 Technologies I Am Learning and Improving

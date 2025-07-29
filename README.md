@@ -2,7 +2,7 @@
 I'm Nazli a Graphic designer and Webdeveloper with special interests in UI/UX and Frontend-design.
 
 
-<!--
+
 **Nazlipour/Nazlipour** is a ✨ UI/UX ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

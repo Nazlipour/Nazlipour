@@ -17,7 +17,9 @@ ________________________________________________________________________________
 - 📌 LinkedIn <a href="https://www.linkedin.com/in/nazli-abbas-pour" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
 </a>
-- 📌 GitHub  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nazlipour)
+- 📌 <a href="https://github.com/YOURUSERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+</a>
 
 _________________________________________________________________________________________________________________________________
 

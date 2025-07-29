@@ -12,7 +12,8 @@ I build responsive, accessible, and user-friendly websites using modern tools li
 - Turning ideas into engaging digital products
 _________________________________________________________________________________________________________________________________
 - 🔭 Currently working on: my Repositories 
-- 💬 I’m currently improving my Germany with Lingoda
+- 💬 I’m currently improving my Coding skills <img width="192" height="28" alt="image" src="https://github.com/user-attachments/assets/9f22d776-6508-4a73-9127-288f7991b7cc" />
+
 - 📫 Connect with me
 - 📌 LinkedIn <a href="https://www.linkedin.com/in/nazli-abbas-pour" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />

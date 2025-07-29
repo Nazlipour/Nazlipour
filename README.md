@@ -32,13 +32,9 @@ ________________________________________________________________________________
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ___________________________________________________________________________________________________________________________________
 
-### 📫 Contact Me in //www.linkedin.com/in/nazli-abbas-pour
+### 📫 Contact Me in //[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazli-abbas-pour)
+
 ____________________________________________________________________________________________________________________________
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazlipour&show_icons=true&theme=radical)
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazlipour&layout=compact&theme=radical)
 

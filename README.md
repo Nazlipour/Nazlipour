@@ -1,20 +1,16 @@
 ## Hi there👋 Nice to see u !
 I'm Nazli a Graphic designer and Webdeveloper with special interests in UI/UX and Frontend-design.
-
-
-
-**Nazlipour/Nazlipour** is a ✨ UI/UX ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+____________________________________________________________________________________________________________
 
 - 🔭 I'm a passionate front-end developer who loves building responsive, user-friendly websites and apps.  
 I enjoy working with modern technologies like React and Next.js, and I'm constantly learning new tools to improve my work.
 
----
+_________________________________________________________________________________________________________________________________
+
 - 🌱 🔭 Currently working on: **React Projects** and my repositories 
 💬 I’m currently improving my Germany with Lingoda
 - 📫 Connect with me in https://www.linkedin.com/in/nazli-abbas-pour
----
+_________________________________________________________________________________________________________________________________
 
 ### 🚀 Technologies I Am Learning and Improving
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -34,16 +30,16 @@ I enjoy working with modern technologies like React and Next.js, and I'm constan
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-...
+___________________________________________________________________________________________________________________________________
 
 ### 📫 Contact Me in //www.linkedin.com/in/nazli-abbas-pour
----
+____________________________________________________________________________________________________________________________
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Nazlipour=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Nazlipour=yourusername&layout=compact&theme=radical)
 
 ---
 

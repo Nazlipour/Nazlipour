@@ -1,12 +1,11 @@
 ## Hi there👋 Nice to see u !
-I'm Nazli a Graphic designer and Webdeveloper with special interests in UI/UX and Frontend-design.
+Hi, I'm Nazli — a Graphic Designer🎨 and Web Developer with a strong passion for UI/UX and Frontend Design.
 ____________________________________________________________________________________________________________
 
-- 🔭 I'm a passionate front-end developer who loves building responsive, user-friendly websites and apps.  
-I enjoy working with modern technologies like React and Next.js, and I'm constantly learning new tools to improve my work.
+- 🔭 I love turning ideas into beautiful, user-centered digital experiences — building responsive, intuitive websites and applications.  
+- ✨ I enjoy working with modern technologies like **React** and **Next.js**, and I'm always learning new tools to level up my work.
 
 _________________________________________________________________________________________________________________________________
-
 - 🌱 🔭 Currently working on: **React Projects** and my repositories 
 💬 I’m currently improving my Germany with Lingoda
 - 📫 Connect with me in https://www.linkedin.com/in/nazli-abbas-pour
